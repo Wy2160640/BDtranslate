@@ -36,7 +36,7 @@ def translate_file(fromfile, toLang='zh'):
 
 
 
-def translate(srcString, appid='20170221000039563', secretKey='nIyk6j2N4pOIc3PpE9tY', fromLang='en', toLang='zh'):
+def translate(srcString, appid='yourappid', secretKey='yourkey, fromLang='en', toLang='zh'):
 
     httpClient = None
     myurl = '/api/trans/vip/translate'
