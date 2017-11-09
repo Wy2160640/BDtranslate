@@ -2,7 +2,7 @@
 
 百度翻译
 
-下载完成后，修改<div color='red'>def translate(srcString, appid='yourAppid', secretKey='yourKey', fromLang='en', toLang='zh'):</div>行
+下载完成后，修改<strong >def translate(srcString, appid='yourAppid', secretKey='yourKey', fromLang='en', toLang='zh'):</strong>行
 
 将<strong>yourAppid, yourKey</strong>修改成百度翻译申请的appid,[申请](http://api.fanyi.baidu.com/api/trans/product/apidoc)
 
